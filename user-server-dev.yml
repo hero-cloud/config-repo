@@ -1,0 +1,7 @@
+server:
+  port: 8050
+  tomcat:
+    uri-encoding: UTF-8
+
+user:
+  username: Hero鹏1
